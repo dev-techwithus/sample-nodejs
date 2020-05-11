@@ -1,0 +1,1 @@
+module.exports.helloworldJSON = JSON.parse('{"statement" : "","author": ""}');
